@@ -1,3 +1,4 @@
+# Installs RKE2 Server on a master node 
 import subprocess
 
 def run_command(command):
